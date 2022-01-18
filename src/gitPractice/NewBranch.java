@@ -7,4 +7,6 @@ public class NewBranch {
 
     // commit 3
 
+    // commit after feature-a
+
 }
