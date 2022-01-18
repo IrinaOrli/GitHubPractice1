@@ -5,4 +5,6 @@ public class NewBranch {
 
     // commit 2
 
+    // commit 3
+
 }
